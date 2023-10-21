@@ -132,11 +132,13 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RabinMiller.cpp" />
     <ClCompile Include="TestSuite.cpp" />
+    <ClCompile Include="Utility.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BruteForce.h" />
     <ClInclude Include="Fermat.h" />
     <ClInclude Include="RabinMiller.h" />
+    <ClInclude Include="Utility.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="carmichael_numbers.txt" />
